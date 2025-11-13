@@ -3,8 +3,6 @@ My name is Chris!
 
 Baseball and code
 
-I'm currently looking out for a role in software developemnt, ideally writing python
-
 I'd especially love to work at a startup on a tight knit team where I can make an impact quickly
 
 ⚡ Fun fact: rocks
